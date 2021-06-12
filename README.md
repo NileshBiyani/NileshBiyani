@@ -7,4 +7,4 @@
 - 💬 Ask me about DSA, Reactjs, Animation, tech related stuffs
 - 📫 How to reach me: LinkedIn - nilesh-biyani
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend 12 hours or more listening songs
+- ⚡ Fun fact: 
