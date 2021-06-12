@@ -6,5 +6,5 @@
 - 🤔 I’m looking for help in getting started with
 - 💬 Ask me about DSA, Reactjs, Animation, tech related stuffs
 - 📫 How to reach me: [my LinkedIn](https://www.linkedin.com/in/nilesh-biyani/) | 
-
+<br>
 <img src="https://github-readme-stats.vercel.app/api?username=NileshBiyani&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=ffffff&bg_color=151515">
