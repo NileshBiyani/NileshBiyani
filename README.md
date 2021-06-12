@@ -5,6 +5,6 @@
 - 👯 I’m looking to collaborate on React.js, Node.js, ML based projects
 - 🤔 I’m looking for help in getting started with
 - 💬 Ask me about DSA, Reactjs, Animation, tech related stuffs
-- 📫 How to reach me: LinkedIn - nilesh-biyani
+- 📫 How to reach me: [my LinkedIn](https://www.linkedin.com/in/nilesh-biyani/) | 
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: 
