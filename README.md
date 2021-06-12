@@ -6,5 +6,5 @@
 - 🤔 I’m looking for help in getting started with
 - 💬 Ask me about DSA, Reactjs, Animation, tech related stuffs
 - 📫 How to reach me: [my LinkedIn](https://www.linkedin.com/in/nilesh-biyani/) | 
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: 
+
+<img src="https://github-readme-stats.vercel.app/api?username=NileshBiyani&&show_icons=true&title_color=0000FF&icon_color=0000FF&text_color=00008B&bg_color=FFFFFF">
