@@ -1,17 +1,31 @@
-<h1 align="center">Hi, I'm Nilesh Biyani</h1>
-<h3 align="center">Backend Engineer · Distributed Systems · AI-Native Product Builder</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/benilesh"><img src="https://img.shields.io/badge/LinkedIn-benilesh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://nileshbiyani.netlify.app"><img src="https://img.shields.io/badge/Portfolio-nileshbiyani.netlify.app-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="mailto:nil03biyani@gmail.com"><img src="https://img.shields.io/badge/Email-nil03biyani%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://komarev.com/ghpvc/?username=NileshBiyani&label=Profile%20views&color=0F172A&style=for-the-badge" alt="Profile views"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Nilesh%20Biyani&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=idea%20%E2%86%92%20design%20%E2%86%92%20code&descAlignY=62&descSize=18" alt="header"/>
 
-<p align="center">
-  <em>"Idea → Design → Code."</em><br/>
-  <sub>Bengaluru, India · open to open-source collabs & staff-level engineering opportunities</sub>
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1200&color=A9B1D6&center=true&vCenter=true&width=720&lines=Backend+Engineer;Distributed+Systems+%26+Multi-Tenant+SaaS;AI-Native+Product+Builder;Java+%C2%B7+Spring+%C2%B7+Python+%C2%B7+LLMs+%C2%B7+Postgres" alt="typing"/>
+</a>
+
+<br/>
+
+<a href="https://linkedin.com/in/benilesh">
+  <img src="https://img.shields.io/badge/LinkedIn-benilesh-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117"/>
+</a>
+<a href="https://nileshbiyani.netlify.app">
+  <img src="https://img.shields.io/badge/Portfolio-nileshbiyani.netlify.app-00C7B7?style=flat-square&logo=netlify&logoColor=white&labelColor=0d1117"/>
+</a>
+<a href="mailto:nil03biyani@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-nil03biyani-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117"/>
+</a>
+<a href="https://github.com/NileshBiyani">
+  <img src="https://img.shields.io/github/followers/NileshBiyani?label=Followers&style=flat-square&color=7AA2F7&labelColor=0d1117&logo=github"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=NileshBiyani&label=Views&color=7AA2F7&style=flat-square&labelColor=0d1117"/>
+
+<br/>
+<sub>Bengaluru, India · open to open-source collabs and staff-level engineering opportunities</sub>
+
+</div>
 
 ---
 
