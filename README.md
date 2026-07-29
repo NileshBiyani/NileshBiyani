@@ -129,25 +129,22 @@ I think about systems the way an architect thinks about a city: what fails first
 ## GitHub Insights
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.hackclub.dev/api?username=NileshBiyani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&card_width=445&v=3" alt="stats"/>
-  <img height="165" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=NileshBiyani&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=350&v=3" alt="top languages"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FNileshBiyani&query=%24.followers&label=Followers&style=for-the-badge&color=7aa2f7&labelColor=0d1117&logo=github"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FNileshBiyani&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&color=bb9af7&labelColor=0d1117&logo=github"/>
+  <img src="https://img.shields.io/github/stars/NileshBiyani?affiliations=OWNER&style=for-the-badge&color=9ece6a&labelColor=0d1117&logo=github&label=Stars"/>
+  <img src="https://komarev.com/ghpvc/?username=NileshBiyani&label=Profile+Views&style=for-the-badge&color=f7768e&labelColor=0d1117"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=NileshBiyani&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&v=3" alt="streak"/>
+  <img src="https://streak-stats.demolab.com?user=NileshBiyani&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&v=4" alt="streak stats"/>
 </p>
 
 <h4 align="center">Contribution Activity</h4>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NileshBiyani&bg_color=1a1b27&color=a9b1d6&line=7aa2f7&point=bb9af7&area=true&hide_border=true&v=3" alt="contribution graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NileshBiyani&bg_color=1a1b27&color=a9b1d6&line=7aa2f7&point=bb9af7&area=true&hide_border=true&v=4" alt="contribution graph"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/NileshBiyani?style=flat-square&color=7aa2f7&labelColor=0d1117&logo=github&label=Followers"/>
-  <img src="https://img.shields.io/github/stars/NileshBiyani?style=flat-square&color=bb9af7&labelColor=0d1117&logo=github&label=Stars"/>
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FNileshBiyani&query=%24.public_repos&label=Public%20Repos&style=flat-square&color=9ece6a&labelColor=0d1117&logo=github"/>
-</p>
 
 ---
 
