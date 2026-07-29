@@ -129,31 +129,25 @@ I think about systems the way an architect thinks about a city: what fails first
 ## GitHub Insights
 
 <p align="center">
-  <a href="https://github.com/NileshBiyani">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=NileshBiyani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&card_width=445&cache_seconds=1800&v=2" alt="stats"/>
-  </a>
-  <a href="https://github.com/NileshBiyani">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NileshBiyani&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=350&cache_seconds=1800&v=2" alt="top languages"/>
-  </a>
+  <img height="165" src="https://github-readme-stats.hackclub.dev/api?username=NileshBiyani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&card_width=445&v=3" alt="stats"/>
+  <img height="165" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=NileshBiyani&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=350&v=3" alt="top languages"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/NileshBiyani">
-    <img src="https://streak-stats.demolab.com?user=NileshBiyani&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&v=2" alt="streak"/>
-  </a>
+  <img src="https://streak-stats.demolab.com?user=NileshBiyani&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&v=3" alt="streak"/>
+</p>
+
+<h4 align="center">Contribution Activity</h4>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NileshBiyani&bg_color=1a1b27&color=a9b1d6&line=7aa2f7&point=bb9af7&area=true&hide_border=true&v=3" alt="contribution graph"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=NileshBiyani&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8&v=2" alt="trophies"/>
-  </a>
+  <img src="https://img.shields.io/github/followers/NileshBiyani?style=flat-square&color=7aa2f7&labelColor=0d1117&logo=github&label=Followers"/>
+  <img src="https://img.shields.io/github/stars/NileshBiyani?style=flat-square&color=bb9af7&labelColor=0d1117&logo=github&label=Stars"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FNileshBiyani&query=%24.public_repos&label=Public%20Repos&style=flat-square&color=9ece6a&labelColor=0d1117&logo=github"/>
 </p>
-
-<details>
-  <summary><strong>Contribution graph</strong></summary>
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NileshBiyani&bg_color=1a1b27&color=a9b1d6&line=7aa2f7&point=bb9af7&area=true&hide_border=true&v=2" alt="contribution graph"/>
-</details>
 
 ---
 
