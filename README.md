@@ -129,22 +129,30 @@ I think about systems the way an architect thinks about a city: what fails first
 ## GitHub Insights
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NileshBiyani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NileshBiyani&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+  <a href="https://github.com/NileshBiyani">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=NileshBiyani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&card_width=445&cache_seconds=1800&v=2" alt="stats"/>
+  </a>
+  <a href="https://github.com/NileshBiyani">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NileshBiyani&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=350&cache_seconds=1800&v=2" alt="top languages"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=NileshBiyani&theme=tokyonight&hide_border=true" alt="Streak stats"/>
+  <a href="https://github.com/NileshBiyani">
+    <img src="https://streak-stats.demolab.com?user=NileshBiyani&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&v=2" alt="streak"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NileshBiyani&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" alt="Trophies"/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=NileshBiyani&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8&v=2" alt="trophies"/>
+  </a>
 </p>
 
 <details>
   <summary><strong>Contribution graph</strong></summary>
   <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NileshBiyani&bg_color=1A1B27&color=A9B1D6&line=7AA2F7&point=BB9AF7&area=true&hide_border=true" alt="Contribution graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NileshBiyani&bg_color=1a1b27&color=a9b1d6&line=7aa2f7&point=bb9af7&area=true&hide_border=true&v=2" alt="contribution graph"/>
 </details>
 
 ---
